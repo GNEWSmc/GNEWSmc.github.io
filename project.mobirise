@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sdfghjkl;'",
-    "currentPage": "page51.html",
+    "currentPage": "page60.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6519,13 +6519,13 @@
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=3BZbsgXYy6U",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             }
           },
           "text": "",
@@ -8578,17 +8578,17 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/isko-ibay-clearing-2-5b24e950e9b340978594b289d55e4d5f-640x427.jpg",
+              "src": "@PROJECT_PATH@assets/images/isko-ibay-clearing-2_5b24e950e9b340978594b289d55e4d5f-640x427.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=pWGEk42bxuI",
+              "src": "https://www.youtube.com/watch?v=pWGEk42bxuI&t=1s",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             }
           },
           "text": "",
